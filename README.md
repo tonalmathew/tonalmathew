@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<!--
-**tonalmathew/tonalmathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
--->
+<figure><embed src="https://wakatime.com/share/@tonalmathew/aafb09fe-e4e7-4bec-be16-1384e4c6bda8.svg"></embed></figure>
 
 - 🔭 I’m currently working on **Something**
 - 🌱 I’m currently learning **Vue.js**
