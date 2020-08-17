@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt text](https://wakatime.com/share/@tonalmathew/aafb09fe-e4e7-4bec-be16-1384e4c6bda8.svg)
+![Alt text](https://wakatime.com/share/@tonalmathew/a9968575-4799-4ff9-aa9e-26c468944e65.svg?sanitize=true)
 <!-- <img src="https://wakatime.com/share/@tonalmathew/aafb09fe-e4e7-4bec-be16-1384e4c6bda8.svg"></img> -->
 
 - 🔭 I’m currently working on **Something**
