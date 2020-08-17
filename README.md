@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img src="https://wakatime.com/share/@tonalmathew/aafb09fe-e4e7-4bec-be16-1384e4c6bda8.svg"></img>
+![Alt text](https://wakatime.com/share/@tonalmathew/aafb09fe-e4e7-4bec-be16-1384e4c6bda8.svg)
+<!-- <img src="https://wakatime.com/share/@tonalmathew/aafb09fe-e4e7-4bec-be16-1384e4c6bda8.svg"></img> -->
 
 - 🔭 I’m currently working on **Something**
 - 🌱 I’m currently learning **Vue.js**
