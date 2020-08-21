@@ -10,3 +10,5 @@
 - 💬 Ask me about **HTML, CSS**
 - 📫 How to reach me: **[Linked in](https://www.linkedin.com/in/tonal-mathew-18a421170/)**
 - ⚡ Fun fact: :wink:
+
+<img align="center" src="github-readme-stats.tonalmathew.vercel.app/api?username=tonalmathew&show_icons=true&include_all_commits=true&theme=radical" alt="Tonal's github stats" />
