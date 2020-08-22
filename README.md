@@ -13,6 +13,6 @@
 
 <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api?username=tonalmathew&show_icons=true&hide_border=true" />
 
- <img src="https://tonalmathew.github.io/" />
+ <!--<img src="https://tonalmathew.github.io/" /> -->
 
 
