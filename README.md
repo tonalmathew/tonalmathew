@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--![Alt text](https://wakatime.com/share/@tonalmathew/a9968575-4799-4ff9-aa9e-26c468944e65.svg) -->
-<img height=50% width=50% src="https://wakatime.com/share/@tonalmathew/a9968575-4799-4ff9-aa9e-26c468944e65.svg"></img>
+<!--![Alt text](https://wakatime.com/share/@tonalmathew/a9968575-4799-4ff9-aa9e-26c468944e65.svg)
+<img height=50% width=50% src="https://wakatime.com/share/@tonalmathew/a9968575-4799-4ff9-aa9e-26c468944e65.svg"></img> -->
 
 - 🔭 I’m currently working on **Something**
 - 🌱 I’m currently learning **Vue.js**
