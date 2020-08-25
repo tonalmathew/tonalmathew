@@ -13,7 +13,7 @@
 
 <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api?username=tonalmathew&show_icons=true&hide_border=true" />
 
-<img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api/top-langs?username=tonalmathew&show_icons=true&hide_border=true" />
+<img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api/top-langs?username=tonalmathew&show_icons=true&hide_border=true&layout=compact" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonalmathew&layout=compact)](https://github.com/tonalmathew/github-readme-stats)
 
