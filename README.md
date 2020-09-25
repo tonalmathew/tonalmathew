@@ -11,9 +11,16 @@
 - 📫 How to reach me: **[Linked in](https://www.linkedin.com/in/tonal-mathew-18a421170/)**
 - ⚡ Fun fact: :wink:
 
+<summary>
+ <details>Github Status</details>
 <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api?username=tonalmathew&show_icons=true&hide_border=true" />
-
+<details>Top languages used</details> 
 <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api/top-langs?username=tonalmathew&show_icons=true&hide_border=true&layout=compact" />
+</summmary>
+
+
+
+
 
 
  <!--<img src="https://tonalmathew.github.io/" /> -->
