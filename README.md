@@ -13,12 +13,12 @@
 
 
 <details>
-  <summary>⚡ Github Stats</summary>
+  <summary>**Github Stats**</summary>
 <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api?username=tonalmathew&show_icons=true&hide_border=true"
   />
   </details>
   <details>
- <summary>Most used languages</summary>
+ <summary>**Most used Languages**</summary>
  <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api/top-langs?username=tonalmathew&show_icons=true&hide_border=true&layout=compact" />
   </details>
   
