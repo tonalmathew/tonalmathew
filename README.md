@@ -13,12 +13,12 @@
 
 
 <details>
-  <summary>**Github Stats**</summary>
+  <summary><b>Github Stats</b></summary>
 <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api?username=tonalmathew&show_icons=true&hide_border=true"
   />
   </details>
   <details>
- <summary>**Most used Languages**</summary>
+    <summary><b>Most used Languages</b></summary>
  <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api/top-langs?username=tonalmathew&show_icons=true&hide_border=true&layout=compact" />
   </details>
   
