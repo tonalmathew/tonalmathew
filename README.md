@@ -1,7 +1,9 @@
-### Hi there 👋
+<h2 align="center">Hi there! 👋 I'm Tonal.</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tonal-mathew-18a421170/">Linked in</a> •
+  <a href="https://twitter.com/tonalmathew">Twitter</a>
+</p>
 
-<!--![Alt text](https://wakatime.com/share/@tonalmathew/a9968575-4799-4ff9-aa9e-26c468944e65.svg)
-<img height=50% width=50% src="https://wakatime.com/share/@tonalmathew/a9968575-4799-4ff9-aa9e-26c468944e65.svg"></img> -->
 
 - 🔭 I’m currently working on **[My-Note](https://github.com/tonalmathew/my-notes)**
 - 🌱 I’m currently learning **Vue.js**
@@ -22,12 +24,5 @@
  <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api/top-langs?username=tonalmathew&show_icons=true&hide_border=true&layout=compact" />
   </details>
   
-
-
-
-
-
-
- <!--<img src="https://tonalmathew.github.io/" /> -->
 
 
