@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[My-Note](https://github.com/tonalmathew/my-notes)**
 - 🌱 I’m currently learning **Vue.js**
-- 👯 I’m looking to collaborate on **Hmm, still looking** :neutral_face:
+- 👯 I’m looking to collaborate on: **Hmm, still looking** :neutral_face:
 - 🤔 I’m looking for help with **Vue.js**
 - 💬 Ask me about **HTML, CSS**
 - 📫 How to reach me: **[Linked in](https://www.linkedin.com/in/tonal-mathew-18a421170/)**
