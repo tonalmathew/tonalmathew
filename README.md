@@ -5,6 +5,7 @@
 </p>
 
 
+
 - 🔭 I’m currently working on **[My-Note](https://github.com/tonalmathew/my-notes)**
 - 🌱 I’m currently learning **Vue.js**
 - 👯 I’m looking to collaborate on: **Hmm, still looking** :neutral_face:
@@ -13,16 +14,18 @@
 - 📫 How to reach me: **[Linked in](https://www.linkedin.com/in/tonal-mathew-18a421170/)**
 - ⚡ Fun fact: :wink:
 
+<hr>
 
 <details>
   <summary><b>Github Stats</b></summary>
-<img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api?username=tonalmathew&show_icons=true&hide_border=true"
+  <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api?username=tonalmathew&show_icons=true&hide_border=true"
   />
-  </details>
-  <details>
-    <summary><b>Most used Languages</b></summary>
- <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api/top-langs?username=tonalmathew&show_icons=true&hide_border=true&layout=compact" />
-  </details>
+ </details>
+ <hr>
+ <details>
+  <summary><b>Most used Languages</b></summary>
+  <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api/top-langs?username=tonalmathew&show_icons=true&hide_border=true&layout=compact" />
+</details>
   
 
 
