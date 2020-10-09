@@ -14,6 +14,7 @@
 - 📫 How to reach me: **[Linked in](https://www.linkedin.com/in/tonal-mathew-18a421170/)**
 - ⚡ Fun fact: :wink:
 
+And that's it :)
 <hr>
 
 <details>
