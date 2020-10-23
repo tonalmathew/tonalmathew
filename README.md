@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! 👋 I'm Tonal...</h2>
+<h2 align="center">Hi there! 👋 I'm Tonal..!</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/tonal-mathew-18a421170/">Linked in</a> •
   <a href="https://twitter.com/mathewtonal">Twitter</a>
