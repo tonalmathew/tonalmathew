@@ -28,8 +28,7 @@
 
   <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api/top-langs?username=tonalmathew&show_icons=true&hide_border=true&layout=compact" />
   
-  <iframe src="https://giphy.com/embed/CaiVJuZGvR8HK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
+  <img src="https://giphy.com/embed/CaiVJuZGvR8HK.gif">
 
   
 
