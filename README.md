@@ -11,7 +11,7 @@
 - <img src="https://media.giphy.com/media/USUIWSteF8DJoc5Snd/giphy.gif" width="25px"/> I’m looking for help with **Vue.js**
 - 💬 Ask me about **HTML, CSS, JS, Vue**
 - 📫 How to reach me: **[Linked in](https://www.linkedin.com/in/tonal-mathew-18a421170/)**
-- <img src="https://media.giphy.com/media/mBXKroHownhhXn0CHM/giphy.gif" width="20px"> Fun fact: <img src="https://github.com/tonalmathew/tonalmathew/blob/master/src/images/oie_zAd2jZRtSWla.gif" width="25px">
+- ⚡ Fun fact: <img src="https://github.com/tonalmathew/tonalmathew/blob/master/src/images/oie_zAd2jZRtSWla.gif" width="25px">
 
 
 📊 **This week I spent my time on**
