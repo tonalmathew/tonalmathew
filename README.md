@@ -26,6 +26,9 @@ And that's it :)
   <summary><b>Most used Languages</b></summary>
   <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api/top-langs?username=tonalmathew&show_icons=true&hide_border=true&layout=compact" />
 </details>
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=tonalmathew&hide_title=true&hide_border=true&langs_count=5)
+
   
 
 
