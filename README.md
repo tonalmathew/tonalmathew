@@ -12,20 +12,15 @@
 - 💬 Ask me about **HTML, CSS, JS, Vue**
 - 📫 How to reach me: **[Linked in](https://www.linkedin.com/in/tonal-mathew-18a421170/)**
 - ⚡ Fun fact: <img src="https://github.com/tonalmathew/tonalmathew/blob/master/src/images/oie_zAd2jZRtSWla.gif" width="25px">
----
+
 
 📊 **This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=tonalmathew&hide_title=true&hide_border=true&langs_count=3)
-<!-- <img src="https://github-readme-stats.tonalmathew.vercel.app/api/wakatime?username=tonalmathew&hide_title=true&hide_border=true"/> -->
 
----
+
 
   <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api?username=tonalmathew&show_icons=true&hide_border=true"/>
-
----
-
-  <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api/top-langs?username=tonalmathew&show_icons=true&hide_border=true&layout=compact" />
 
 
 
