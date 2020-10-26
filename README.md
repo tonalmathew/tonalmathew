@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[My-Note](https://github.com/tonalmathew/my-notes)**
 - 🌱 I’m currently learning **Vue.js**
-- 👯 I’m looking to collaborate on: **Hmm, still looking** <img src="https://media.giphy.com/media/fveKEBsUZw93j6Hs00/giphy.gif" width="20px">
+- 👯 I’m looking to collaborate on: **Hmm, still looking** :neutral_face:
 - <img src="https://media.giphy.com/media/USUIWSteF8DJoc5Snd/giphy.gif" width="25px"/> I’m looking for help with **Vue.js**
 - 💬 Ask me about **HTML, CSS, JS, Vue**
 - 📫 How to reach me: **[Linked in](https://www.linkedin.com/in/tonal-mathew-18a421170/)**
