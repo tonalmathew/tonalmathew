@@ -13,7 +13,7 @@
 - 💬 Ask me about **HTML, CSS, JS, Vue**
 - 📫 How to reach me: **[Linked in](https://www.linkedin.com/in/tonal-mathew-18a421170/)**
 - ⚡ Fun fact: :wink:
--
+--
 
 📊 **This week I spent my time on**
 
