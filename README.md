@@ -1,6 +1,8 @@
 <h2 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Tonal..!</h2>
+  <p align="center">
   <a href="https://www.linkedin.com/in/tonal-mathew-18a421170/">Linked in</a> •
   <a href="https://twitter.com/mathewtonal">Twitter</a>
+  </p>
 
 
 - 🔭 I’m currently working on **[My-Note](https://github.com/tonalmathew/my-notes)**
