@@ -13,21 +13,19 @@
 - 💬 Ask me about **HTML, CSS, JS, Vue**
 - 📫 How to reach me: **[Linked in](https://www.linkedin.com/in/tonal-mathew-18a421170/)**
 - ⚡ Fun fact: :wink:
+---
 
-And that's it :)
-<hr>
-
-<details>
-  <summary><b>Github Stats</b></summary>
-  <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api?username=tonalmathew&show_icons=true&hide_border=true"
-  />
- </details>
- <details>
-  <summary><b>Most used Languages</b></summary>
-  <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api/top-langs?username=tonalmathew&show_icons=true&hide_border=true&layout=compact" />
-</details>
-
+📊 **This week I spent my time on**
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=tonalmathew&hide_title=true&hide_border=true&langs_count=5)
+
+---
+
+  <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api?username=tonalmathew&show_icons=true&hide_border=true"/>
+
+---
+
+  <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api/top-langs?username=tonalmathew&show_icons=true&hide_border=true&layout=compact" />
+
 
   
 
