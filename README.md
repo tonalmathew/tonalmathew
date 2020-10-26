@@ -1,8 +1,8 @@
 <h2 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Tonal..!</h2>
   <!-- <a href="https://www.linkedin.com/in/tonal-mathew-18a421170/">Linked in</a> •
   <a href="https://twitter.com/mathewtonal">Twitter</a> -->
-![<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mathewtonal)
-![<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tonal-mathew-18a421170)
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mathewtonal)
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tonal-mathew-18a421170)
 
 
 
