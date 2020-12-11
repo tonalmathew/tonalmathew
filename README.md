@@ -1,10 +1,10 @@
-<!--<h2 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Tonal..!</h2>
+<h2 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Tonal..!</h2>
   <p align="center">
   <a href="https://www.linkedin.com/in/tonal-mathew/">Linked in</a> •
   <a href="https://twitter.com/mathewtonal">Twitter</a>
-  </p> -->
+  </p> 
   
-  <img src="https://github.com/tonalmathew/svg-test/blob/main/test.svg">
+ <!-- <img src="https://github.com/tonalmathew/svg-test/blob/main/test.svg"> -->
 
 
 - 🔭 I’m currently working on **[tele-bot](https://github.com/tonalmathew/tele-bot)**
