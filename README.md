@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/tonal-mathew/">Linked in</a> •
   <a href="https://twitter.com/mathewtonal">Twitter</a>
   </p> 
-  
+  <img width="100%" src="https://github.com/tonalmathew/svg-test/blob/main/test.svg">
 
 
 - 🔭 I’m currently working on **[tele-bot](https://github.com/tonalmathew/tele-bot)**
