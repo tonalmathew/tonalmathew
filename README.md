@@ -1,7 +1,5 @@
 <!-- <img width="100%" src="https://github.com/tonalmathew/svg-test/blob/main/test.svg"> -->
 <h2 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Tonal..!</h2>
-  <img width="100%" src="https://github.com/tonalmathew/svg-test/blob/main/test.svg">
-
   <p align="center">
   <a href="https://www.linkedin.com/in/tonal-mathew/">Linked in</a> •
   <a href="https://twitter.com/mathewtonal">Twitter</a>
@@ -15,6 +13,8 @@
 - 💬 Ask me about **HTML, CSS, JS, Vue**
 - 📫 How to reach me: **[Linked in](https://www.linkedin.com/in/tonal-mathew-18a421170/)**
 - ⚡ Fun fact: _look closely_ <img src="https://github.com/tonalmathew/tonalmathew/blob/master/src/images/oie_zAd2jZRtSWla.gif" width="25px">
+
+  <img width="100%" src="https://github.com/tonalmathew/svg-test/blob/main/test.svg">
 
 
 📊 **This week I spent my time on**
