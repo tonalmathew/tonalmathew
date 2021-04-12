@@ -14,7 +14,7 @@
 - 📫 How to reach me: **[Linked in](https://www.linkedin.com/in/tonal-mathew-18a421170/)**
 - ⚡ Fun fact: _look closely_ <img src="https://github.com/tonalmathew/tonalmathew/blob/master/src/images/oie_zAd2jZRtSWla.gif" width="25px">
 
-  <img width="100%" src="https://github.com/tonalmathew/svg-test/blob/main/test.svg">
+  <!--<img width="100%" src="https://github.com/tonalmathew/svg-test/blob/main/test.svg">-->
 
 
 📊 **This week I spent my time on**
