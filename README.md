@@ -8,7 +8,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonalmathew&label=Profile%20views&color=0e75b6&style=flat" alt="tonalmathew" /> </p> -->
 
-- 🔭 I’m currently working on **[ieeeajcesb](https://github.com/ajceieee/ieeeajcesb)**
+- 🔭 I’m currently working on **[IEEE AJCE SB](https://github.com/ajceieee)**
 - 🌱 I’m currently learning **Vue.js**
 - 👯 I’m looking to collaborate on: **Hmm, still looking** :neutral_face:
 - :thinking: I’m looking for help with **Vue.js**
