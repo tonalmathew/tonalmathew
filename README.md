@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Vue.js**
 - 👯 I’m looking to collaborate on: **Hmm, still looking** :neutral_face:
 - :thinking: I’m looking for help with **Vue.js**
-- 💬 Ask me about **HTML, CSS, JS, Vue**
+- 💬 Ask me about **HTML, CSS, JS, Vue.js, Node.js**
 - 📫 How to reach me: **[Linked in](https://www.linkedin.com/in/tonal-mathew-18a421170/)**
 - ⚡ Fun fact: _look closely_ <img src="https://github.com/tonalmathew/tonalmathew/blob/master/src/images/oie_zAd2jZRtSWla.gif" width="25px">
 
