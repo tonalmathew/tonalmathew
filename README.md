@@ -20,9 +20,9 @@
   <!--<img width="100%" src="https://github.com/tonalmathew/svg-test/blob/main/test.svg">-->
 
 
-📊 **This week I spent my time on**
+<!--📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=tonalmathew&hide_title=true&hide_border=true&langs_count=3)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=tonalmathew&hide_title=true&hide_border=true&langs_count=3) -->
 
 
 
