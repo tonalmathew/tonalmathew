@@ -7,27 +7,14 @@
   </p>  -->
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonalmathew&label=Profile%20views&color=0e75b6&style=flat" alt="tonalmathew" /> </p> -->
+<!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
+<p><em>A Final Year Computer Science and Engineering Student</em></p>
 
-- 🔭 I’m currently working on **[IEEE AJCE SB](https://github.com/ajceieee)**
-- 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on: **Hmm, still looking** :neutral_face:
-- :thinking: I’m looking for help with **React**
-- 💬 Ask me about **HTML, CSS, JS, Vue.js, Node.js**
-- 📫 How to reach me: **[Linked in](https://www.linkedin.com/in/tonal-mathew-18a421170/)**
-- ⚡ Fun fact: _look closely_ <img src="https://github.com/tonalmathew/tonalmathew/blob/master/src/images/oie_zAd2jZRtSWla.gif" width="25px">
+[![Twitter Follow](https://img.shields.io/twitter/follow/tonalmathew?style=flat)](https://twitter.com/intent/follow?screen_name=tonalmathew)
+[![Linkedin: anmol](https://img.shields.io/badge/tonal-mathew?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tonal-mathew/)](https://www.linkedin.com/in/tonal-mathew/)
+![GitHub followers](https://img.shields.io/github/followers/tonalmathew?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://tonalmathew.github.io/)](http://tonalmathew.github.io/)
 
-  <!--<img width="100%" src="https://github.com/tonalmathew/svg-test/blob/main/test.svg">-->
-
-
-<!--📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=tonalmathew&hide_title=true&hide_border=true&langs_count=3) -->
-
-
-
-<!-- <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api?username=tonalmathew&show_icons=true&hide_border=true"/>
--->
 ---
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
