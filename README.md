@@ -17,13 +17,13 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 1,031 Contributions in the Year 2021
  > 
-> 📦 65.1 kB Used in Github's Storage 
+> 📦 65.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -93,5 +93,5 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
