@@ -1,13 +1,5 @@
-<!-- <img width="100%" src="https://github.com/tonalmathew/svg-test/blob/main/test.svg"> -->
-<!-- <h2 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Tonal..!</h2> -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=HI%2C+I'm+Tonal;I'm+a+MEVN+Stack+Developer)](https://git.io/typing-svg)
-<!--   <p align="center">
-  <a href="https://www.linkedin.com/in/tonal-mathew/">Linked in</a> •
-  <a href="https://twitter.com/mathewtonal">Twitter</a>
-  </p>  -->
 
-
-<!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
 <p><em>A Final Year Computer Science and Engineering Student</em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tonalmathew?style=flat)](https://twitter.com/intent/follow?screen_name=tonalmathew)
