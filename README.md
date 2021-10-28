@@ -9,17 +9,17 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,198 Contributions in the Year 2021
+> 🏆 1,200 Contributions in the Year 2021
  > 
 > 📦 66.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 69 Public Repositories 
+> 📜 70 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -38,8 +38,8 @@
 Monday       190 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
 Tuesday      132 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
 Wednesday    132 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
-Thursday     138 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
-Friday       281 commits    █████░░░░░░░░░░░░░░░░░░░░   22.61% 
+Thursday     139 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
+Friday       280 commits    █████░░░░░░░░░░░░░░░░░░░░   22.53% 
 Saturday     192 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
 Sunday       178 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.32%
 
@@ -78,5 +78,5 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2021
+ Last Updated on 28/10/2021
 <!--END_SECTION:waka-->
