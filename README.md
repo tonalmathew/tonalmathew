@@ -52,16 +52,16 @@ Sunday       178 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-contributors-readme-actio3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -78,5 +78,5 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2021
+ Last Updated on 06/11/2021
 <!--END_SECTION:waka-->
