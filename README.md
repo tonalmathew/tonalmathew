@@ -9,7 +9,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -80,5 +80,5 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/03/2022 18:47:43 UTC
+ Last Updated on 25/03/2022 18:47:55 UTC
 <!--END_SECTION:waka-->
