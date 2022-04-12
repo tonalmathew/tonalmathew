@@ -9,7 +9,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -52,16 +52,21 @@ Sunday       206 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               4 hrs 27 mins       █████████████░░░░░░░░░░░░   53.35% 
+HTML                     2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.28% 
+CSS                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.96% 
+Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46% 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 hrs 20 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+innohackWeb              4 hrs 58 mins       ███████████████░░░░░░░░░░   59.63% 
+src                      3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.37%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    8 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
@@ -78,5 +83,5 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/04/2022 18:48:30 UTC
+ Last Updated on 12/04/2022 18:48:25 UTC
 <!--END_SECTION:waka-->
