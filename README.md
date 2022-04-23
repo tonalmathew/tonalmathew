@@ -9,13 +9,13 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 105 Contributions in the Year 2022
  > 
-> 📦 102.8 kB Used in GitHub's Storage 
+> 📦 102.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -81,5 +81,5 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2022 18:49:39 UTC
+ Last Updated on 23/04/2022 18:47:35 UTC
 <!--END_SECTION:waka-->
