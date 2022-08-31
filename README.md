@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=HI%2C+I'm+Tonal;I'm+a+MEVN+Stack+Developer)](https://git.io/typing-svg)
 
-<p><em>A Final Year Computer Science and Engineering Student</em></p>
+<p><em>Full-Stack Developer</em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tonalmathew?style=flat)](https://twitter.com/intent/follow?screen_name=tonalmathew)
 [![Linkedin: anmol](https://img.shields.io/badge/tonal-mathew?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tonal-mathew/)](https://www.linkedin.com/in/tonal-mathew/)
