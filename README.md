@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=HI%2C+I'm+Tonal;I'm+a+MEVN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=HI%2C+I'm+Tonal;I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
 <p><em>Full-Stack Developer</em></p>
 
