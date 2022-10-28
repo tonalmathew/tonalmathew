@@ -54,16 +54,16 @@ Sunday       105 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-filmymoji-mobile-rest-api2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -80,5 +80,5 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2022 18:55:43 UTC
+ Last Updated on 28/10/2022 18:51:08 UTC
 <!--END_SECTION:waka-->
