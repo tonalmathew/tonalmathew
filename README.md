@@ -9,7 +9,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-783%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-788%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -54,16 +54,20 @@ Sunday       105 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 13 mins       █████████████████░░░░░░░░   67.51% 
+CSS                      1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   27.9% 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.46% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 46 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+koachme                  4 hrs 46 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      4 hrs 46 mins       █████████████████████████   100.0%
 
 ```
 
@@ -80,5 +84,5 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2022 18:53:26 UTC
+ Last Updated on 02/11/2022 18:50:48 UTC
 <!--END_SECTION:waka-->
