@@ -15,7 +15,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 433 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 197.9 kB Used in GitHub's Storage 
  > 
@@ -86,5 +86,5 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 18:40:07 UTC
+ Last Updated on 01/01/2023 18:40:29 UTC
 <!--END_SECTION:waka-->
