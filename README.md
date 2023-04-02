@@ -52,17 +52,16 @@ Sunday                   696 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               40 mins             █████████████████████████   99.92 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-koachme                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +77,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2023 18:41:11 UTC
+ Last Updated on 02/04/2023 18:41:08 UTC
 <!--END_SECTION:waka-->
