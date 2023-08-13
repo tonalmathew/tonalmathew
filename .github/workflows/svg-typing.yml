@@ -9,12 +9,27 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Run My SVG Action
-        uses: tonalmathew/readme-typing@main
+    strategy:
+      matrix:
+        node-version: [14.x, 16.x, 18.x]
 
-        with:
-          yaml-file: input.yaml
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Setup Node.js  
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Run My SVG Action
+      uses: tonalmathew/readme-typing@main
+
+      with:
+        yaml-file: input.yaml
 
 
 
