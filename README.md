@@ -1,5 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=HI%2C+I'm+Tonal+Mathew;I'm+a+Full+Stack+Developer">
 
+<!-- START:readme-typing -->
+<!-- END:readme-typing -->
+
 <p><em>Full-Stack Developer</em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tonalmathew?style=flat)](https://twitter.com/intent/follow?screen_name=tonalmathew)
