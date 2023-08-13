@@ -3,7 +3,7 @@ name: Update README with SVG
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   update-readme:
