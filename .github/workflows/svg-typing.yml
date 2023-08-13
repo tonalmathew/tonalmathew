@@ -1,0 +1,22 @@
+name: Update README with SVG
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Run My SVG Action
+        uses: tonalmathew/readme-typing@main
+
+        with:
+          yaml-file: input.yaml
+
+
+
+
+
