@@ -1,37 +1,18 @@
-name: Update README with SVG
-
+name: Readme - svg text
 on:
-  push:
-    branches:
-      - master
-
+  workflow_dispatch:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [14.x, 16.x, 18.x]
-
     steps:
-    - name: Checkout repository
+    - name: Checkout code
       uses: actions/checkout@v3
-
-    - name: Setup Node.js  
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'npm'
-    - name: Install dependencies
-      run: npm ci
-      
-    - name: Run My SVG Action
+    - name: Run the action
       uses: tonalmathew/readme-typing@main
-
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       with:
-        yaml-file: input.yaml
-
-
-
-
+        input-text: |
+          Hi, I'm Tonal Mathew
+          I'm a Full-Stack Developer
 
