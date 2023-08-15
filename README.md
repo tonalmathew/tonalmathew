@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?lines=HI%2C+I'm+Tonal+Mathew;I'm+a+Full+Stack+Developer">
+<!-- <img src="https://readme-typing-svg.herokuapp.com?lines=HI%2C+I'm+Tonal+Mathew;I'm+a+Full+Stack+Developer"> -->
 
 <!-- START:readme-typing -->
 <img src="readme-typing.svg" />
