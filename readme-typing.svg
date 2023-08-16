@@ -3,7 +3,7 @@
           <path id="path0">
             <animate id="d0" attributeName="d" begin="0s;d1.end" dur="5000ms" fill="remove" values="m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0" keyTimes="0;0.8;0.8;1"/>
           </path>
-          <text font-family="monospace" fill="#36BCF7" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
+          <text font-family="monospace" fill="yellow" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
             <textPath xlink:href="#path0">
               Hi, I'm Tonal Mathew
             </textPath>
@@ -11,7 +11,7 @@
           <path id="path1">
             <animate id="d1" attributeName="d" begin="d0.end" dur="5000ms" fill="remove" values="m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0" keyTimes="0;0.8;0.8;1"/>
           </path>
-          <text font-family="monospace" fill="#36BCF7" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
+          <text font-family="monospace" fill="yellow" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
             <textPath xlink:href="#path1">
               I'm a Full-Stack Developer
             </textPath>
