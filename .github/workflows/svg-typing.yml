@@ -12,7 +12,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       with:
-        input-text: |
+        INPUT_TEXT: |
           Hi, I'm Tonal Mathew
           I'm a Full-Stack Developer
+        COLOR: yellow
 
