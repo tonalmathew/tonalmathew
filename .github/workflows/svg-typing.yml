@@ -15,5 +15,5 @@ jobs:
         INPUT_TEXT: |
           Hi, I'm Tonal Mathew
           I'm a Full-Stack Developer
-        COLOR: yellow
+        COLOR: '#06d6a0'
 
