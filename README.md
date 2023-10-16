@@ -54,17 +54,16 @@ Sunday                   717 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               23 mins             ██████████████████░░░░░░░   71.11 % 
-CSS                      9 mins              ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-moviielistingcopy        32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,5 +79,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2023 18:42:25 UTC
+ Last Updated on 16/10/2023 18:44:34 UTC
 <!--END_SECTION:waka-->
