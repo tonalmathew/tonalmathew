@@ -54,16 +54,16 @@ Sunday                   613 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-musicplayer              17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,5 +79,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2024 18:42:05 UTC
+ Last Updated on 18/03/2024 18:42:23 UTC
 <!--END_SECTION:waka-->
