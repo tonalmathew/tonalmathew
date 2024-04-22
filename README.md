@@ -11,13 +11,15 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C325%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C325%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 320.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 133 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -52,16 +54,16 @@ Sunday                   613 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               26 mins             █████████████████████████   100.00 % 
+JavaScript               1 hr                █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-passionbytes-property-das26 mins             █████████████████████████   100.00 % 
+passionbytes-property-das1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,5 +79,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2024 18:41:43 UTC
+ Last Updated on 22/04/2024 18:40:45 UTC
 <!--END_SECTION:waka-->
