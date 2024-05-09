@@ -19,8 +19,6 @@
 
 > 📦 320.3 kB Used in GitHub's Storage 
  > 
-> 🏆 133 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 91 Public Repositories 
@@ -54,17 +52,16 @@ Sunday                   613 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               48 mins             █████████████████████░░░░   85.51 % 
-SCSS                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-passionbytes-admin-dashbo56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,5 +77,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/05/2024 18:42:29 UTC
+ Last Updated on 09/05/2024 18:41:10 UTC
 <!--END_SECTION:waka-->
