@@ -11,7 +11,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C332%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C334%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -19,7 +19,7 @@
 
 > 📦 320.3 kB Used in GitHub's Storage 
  > 
-> 🏆 133 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -54,16 +54,24 @@ Sunday                   613 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 16 mins        █████████████████░░░░░░░░   68.07 % 
+TypeScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+SCSS                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 52 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+passionbytes-admin-dashbo46 mins             ██████████░░░░░░░░░░░░░░░   41.86 % 
+passionbytes-property-das35 mins             ████████░░░░░░░░░░░░░░░░░   31.87 % 
+passion-bytes-nextJS     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+gg                       11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 40 mins        ██████████████████████░░░   89.91 % 
+WSL                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,5 +87,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2024 18:43:41 UTC
+ Last Updated on 11/06/2024 18:44:17 UTC
 <!--END_SECTION:waka-->
