@@ -19,8 +19,6 @@
 
 > 📦 320.3 kB Used in GitHub's Storage 
  > 
-> 🏆 133 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 91 Public Repositories 
@@ -54,20 +52,16 @@ Sunday                   613 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 18 mins        ████████████████████████░   94.94 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-passionbytes-admin-dashbo1 hr 18 mins        ████████████████████████░   94.94 % 
-passion-bytes-nextJS     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-passionbytes-property-das0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,5 +77,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2024 18:44:12 UTC
+ Last Updated on 19/06/2024 18:43:59 UTC
 <!--END_SECTION:waka-->
