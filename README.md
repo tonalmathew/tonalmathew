@@ -11,15 +11,13 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C335%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C335%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 320.3 kB Used in GitHub's Storage 
- > 
-> 🏆 133 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -54,16 +52,16 @@ Sunday                   613 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+musicplayer              1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,5 +77,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2024 18:43:30 UTC
+ Last Updated on 21/06/2024 18:43:42 UTC
 <!--END_SECTION:waka-->
