@@ -13,11 +13,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C343%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 320.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 133 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -80,5 +82,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2024 18:45:29 UTC
+ Last Updated on 13/07/2024 18:42:16 UTC
 <!--END_SECTION:waka-->
