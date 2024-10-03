@@ -19,6 +19,8 @@
 
 > 📦 320.4 kB Used in GitHub's Storage 
  > 
+> 🏆 133 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 91 Public Repositories 
@@ -52,16 +54,16 @@ Sunday                   613 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-truckbookers-react-monore50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,5 +79,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2024 18:49:57 UTC
+ Last Updated on 03/10/2024 18:49:04 UTC
 <!--END_SECTION:waka-->
