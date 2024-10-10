@@ -11,7 +11,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C353%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C355%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -54,16 +54,21 @@ Sunday                   613 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 38 mins        ████████████████████░░░░░   78.07 % 
+JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Autospa-Booking-App      2 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 24 mins        █████████████████░░░░░░░░   66.88 % 
+Windows                  41 mins             ████████░░░░░░░░░░░░░░░░░   33.12 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,5 +84,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2024 18:49:00 UTC
+ Last Updated on 10/10/2024 18:50:51 UTC
 <!--END_SECTION:waka-->
