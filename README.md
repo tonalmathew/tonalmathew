@@ -11,13 +11,15 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C373%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C376%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 376.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 190 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -52,19 +54,17 @@ Sunday                   618 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 41 mins       ████████████████████████░   94.50 % 
-SCSS                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+TypeScript               4 hrs 38 mins       ██████████████████████░░░   87.06 % 
+SCSS                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-truckbookers-react-monore1 hr 43 mins        ███████████████░░░░░░░░░░   60.66 % 
-abchauz-uae-nextjs-v2    1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   39.31 % 
-addifico-clone           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+truckbookers-react-monore5 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,5 +80,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2024 18:51:05 UTC
+ Last Updated on 05/12/2024 18:52:30 UTC
 <!--END_SECTION:waka-->
