@@ -11,7 +11,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C467%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C468%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -19,7 +19,7 @@
 
 > 📦 380.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 54 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -54,17 +54,18 @@ Sunday                   618 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               57 mins             █████████████████████████   100.00 % 
+TypeScript               1 hr 17 mins        ████████████████████████░   96.49 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 🔥 Editors: 
-VS Code                  57 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-marketplace-vendor-react 53 mins             ███████████████████████░░   93.16 % 
-marketplace-admin-react  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+rate-me-vendor           1 hr 16 mins        ████████████████████████░   95.25 % 
+rate-me-admin            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,5 +81,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/03/2025 19:19:44 UTC
+ Last Updated on 26/03/2025 19:20:22 UTC
 <!--END_SECTION:waka-->
