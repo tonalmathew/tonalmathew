@@ -11,7 +11,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C516%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C517%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,17 +54,17 @@ Sunday                   618 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 58 mins       █████████████████████████   100.00 % 
+TypeScript               5 hrs 2 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Marketplace-website-nextj3 hrs 52 mins       ███████████████████░░░░░░   77.98 % 
-marketplace-vendor-react 1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+Marketplace-website-nextj3 hrs 23 mins       █████████████████░░░░░░░░   67.12 % 
+marketplace-vendor-react 1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   32.88 % 
 
 💻 Operating System: 
-Windows                  4 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,5 +80,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2025 19:33:39 UTC
+ Last Updated on 06/06/2025 19:31:20 UTC
 <!--END_SECTION:waka-->
