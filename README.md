@@ -54,20 +54,16 @@ Sunday                   618 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               48 mins             ████████████████████████░   95.48 % 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-marketplace-admin-react  28 mins             ██████████████░░░░░░░░░░░   55.54 % 
-Marketplace-website-nextj13 mins             ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-marketplace-vendor-react 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,5 +79,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2025 19:31:01 UTC
+ Last Updated on 11/07/2025 19:30:31 UTC
 <!--END_SECTION:waka-->
