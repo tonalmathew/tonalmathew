@@ -54,17 +54,16 @@ Sunday                   618 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 mins              ██████████████████████░░░   88.24 % 
-JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-host-website-nextjs      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,5 +79,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2025 19:37:04 UTC
+ Last Updated on 14/08/2025 19:38:43 UTC
 <!--END_SECTION:waka-->
