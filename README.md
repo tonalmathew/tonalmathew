@@ -54,17 +54,16 @@ Sunday                   629 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               36 mins             ███████████████████████░░   92.56 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sensory-id               39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,5 +79,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2025 19:44:35 UTC
+ Last Updated on 19/12/2025 19:43:56 UTC
 <!--END_SECTION:waka-->
