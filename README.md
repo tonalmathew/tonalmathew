@@ -11,9 +11,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C575%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C576%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -54,16 +54,18 @@ Sunday                   629 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               33 mins             █████████████████████████   100.00 % 
+TypeScript               1 hr 4 mins         ████████████████████████░   95.31 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 🔥 Editors: 
-Cursor                   33 mins             █████████████████████████   100.00 % 
+Cursor                   1 hr 7 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ABC-Buildware            33 mins             █████████████████████████   100.00 % 
+ABC-Buildware            33 mins             █████████████░░░░░░░░░░░░   50.47 % 
+raisen-mundo             33 mins             ████████████░░░░░░░░░░░░░   49.53 % 
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,5 +81,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/12/2025 19:40:42 UTC
+ Last Updated on 26/12/2025 19:41:36 UTC
 <!--END_SECTION:waka-->
