@@ -11,7 +11,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C635%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C639%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,16 +54,22 @@ Sunday                   787 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 39 mins       ██████████████████████░░░   87.55 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   4 hrs 4 mins        ████████████████████████░   97.51 % 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Smikteck-website         4 hrs 6 mins        █████████████████████████   98.45 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,5 +85,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2026 19:34:04 UTC
+ Last Updated on 03/04/2026 19:17:11 UTC
 <!--END_SECTION:waka-->
