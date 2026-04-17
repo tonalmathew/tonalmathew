@@ -54,19 +54,16 @@ Sunday                   787 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 8 mins         ███████████████████░░░░░░   74.99 % 
-Other                    14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 31 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-enmindz-call-scheduler   1 hr 31 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,5 +79,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2026 19:49:54 UTC
+ Last Updated on 17/04/2026 19:43:10 UTC
 <!--END_SECTION:waka-->
