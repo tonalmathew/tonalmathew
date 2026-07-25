@@ -11,6 +11,8 @@
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C720%20hrs%2054%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -25,6 +27,48 @@
  > 
 > 🔑 24 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                846 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+🌆 Daytime                1858 commits        ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+🌃 Evening                2575 commits        ██████████░░░░░░░░░░░░░░░   41.21 % 
+🌙 Night                  970 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   835 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Tuesday                  864 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Wednesday                1200 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Thursday                 901 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Friday                   908 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Saturday                 754 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Sunday                   787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               5 mins              ███████████░░░░░░░░░░░░░░   45.15 % 
+Other                    4 mins              █████████░░░░░░░░░░░░░░░░   36.28 % 
+CSS                      2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+
+🔥 Editors: 
+Claude Code              9 mins              ████████████████████░░░░░   81.19 % 
+VS Code                  2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+
+🐱‍💻 Projects: 
+tilify                   11 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  11 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -38,5 +82,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 20:00:44 UTC
+ Last Updated on 25/07/2026 19:49:15 UTC
 <!--END_SECTION:waka-->
