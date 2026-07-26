@@ -11,7 +11,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C720%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C721%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,19 +54,21 @@ Sunday                   787 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 mins              ███████████░░░░░░░░░░░░░░   45.15 % 
-Other                    4 mins              █████████░░░░░░░░░░░░░░░░   36.28 % 
-CSS                      2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+TypeScript               49 mins             █████████████████████░░░░   82.26 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 
 🔥 Editors: 
-Claude Code              9 mins              ████████████████████░░░░░   81.19 % 
-VS Code                  2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Claude Code              35 mins             ███████████████░░░░░░░░░░   59.35 % 
+VS Code                  24 mins             ██████████░░░░░░░░░░░░░░░   40.65 % 
 
 🐱‍💻 Projects: 
-tilify                   11 mins             █████████████████████████   100.00 % 
+twei-frontend            48 mins             ████████████████████░░░░░   80.55 % 
+tilify                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Windows                  59 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,5 +84,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:49:15 UTC
+ Last Updated on 26/07/2026 19:48:45 UTC
 <!--END_SECTION:waka-->
