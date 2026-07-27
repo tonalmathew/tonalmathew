@@ -11,7 +11,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C721%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C709%20hrs%206%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -71,6 +73,29 @@ tilify                   11 mins             █████░░░░░░�
 Windows                  59 mins             █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 50 mins (84.28%)
+
+✍️ 627 lines written by AI, 1 lines written by hand (99.84% AI-written)
+
+🔤 6,141,278 Input Tokens, 61,480 Output Tokens
+
+💵 $19.55 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 5 AI Prompts
+
+Sonnet                   627 lines           █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.84% of written lines came from AI
+📚 Verbose Prompter — average 3,074 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.32% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -84,5 +109,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:48:45 UTC
+ Last Updated on 27/07/2026 20:09:46 UTC
 <!--END_SECTION:waka-->
