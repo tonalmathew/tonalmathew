@@ -11,6 +11,10 @@
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C711%20hrs%2020%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2013%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -105,5 +109,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:07:33 UTC
+ Last Updated on 29/07/2026 19:57:35 UTC
 <!--END_SECTION:waka-->
