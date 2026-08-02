@@ -11,9 +11,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C712%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C713%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -56,47 +56,48 @@ Sunday                   787 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 58 mins       ██████████████████████░░░   88.48 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+TypeScript               4 hrs 29 mins       ███████████████████████░░   90.57 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 39 mins       ████████████████████░░░░░   81.40 % 
-Claude Code              50 mins             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+VS Code                  4 hrs 30 mins       ███████████████████████░░   90.98 % 
+Claude Code              26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 
 🐱‍💻 Projects: 
-twei-frontend            3 hrs 44 mins       █████████████████████░░░░   83.17 % 
-alle-tech                38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-repprox-website          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+twei-frontend            2 hrs 56 mins       ███████████████░░░░░░░░░░   59.24 % 
+qr-share                 52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+alle-tech                38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+decimen-optical-transfer 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+repprox-website          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 💻 Operating System: 
-Windows                  4 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 56 mins (87.69%)
+⏱ AI Coding Time: 4 hrs 31 mins (91.19%)
 
-✍️ 1,248 lines written by AI, 18 lines written by hand (98.58% AI-written)
+✍️ 1,283 lines written by AI, 17 lines written by hand (98.69% AI-written)
 
-🔤 23,995,907 Input Tokens, 160,905 Output Tokens
+🔤 23,499,299 Input Tokens, 180,473 Output Tokens
 
-💵 $76.74 Estimated AI Cost This Week
+💵 $73.20 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 57 AI Prompts
+🧠 11 AI Sessions, 68 AI Prompts
 
-Fable                    1,134 lines         ██████████████████████░░░   87.84 % 
-Sonnet                   157 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    1,238 lines         ███████████████████████░░   93.79 % 
+Sonnet                   82 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.58% of written lines came from AI
-📝 Concise Prompter — average 442 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.3% of changed lines were hand-edited
+🤖 AI-Driven — 98.69% of written lines came from AI
+📝 Concise Prompter — average 324 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 2.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,5 +113,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 19:48:46 UTC
+ Last Updated on 02/08/2026 19:48:04 UTC
 <!--END_SECTION:waka-->
