@@ -11,9 +11,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C713%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C716%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -56,47 +56,49 @@ Sunday                   787 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 41 mins       ███████████████████████░░   90.90 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+TypeScript               4 hrs 9 mins        ████████████████████░░░░░   78.14 % 
+Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 6 mins        █████████████████████████   98.96 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+VS Code                  4 hrs 37 mins       ██████████████████████░░░   86.78 % 
+Claude Code              42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 
 🐱‍💻 Projects: 
-twei-frontend            3 hrs 7 mins        ███████████████░░░░░░░░░░   60.71 % 
-qr-share                 52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-alle-tech                38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-decimen-optical-transfer 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-repprox-website          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+twei-frontend            2 hrs 51 mins       █████████████░░░░░░░░░░░░   53.75 % 
+qr-share                 52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+alle-tech                38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+twei-backend             26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+decimen-optical-transfer 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 
 💻 Operating System: 
-Windows                  5 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 37 mins (89.58%)
+⏱ AI Coding Time: 4 hrs 52 mins (91.53%)
 
-✍️ 1,369 lines written by AI, 11 lines written by hand (99.2% AI-written)
+✍️ 1,125 lines written by AI, 10 lines written by hand (99.12% AI-written)
 
-🔤 19,817,417 Input Tokens, 187,935 Output Tokens
+🔤 16,567,639 Input Tokens, 182,243 Output Tokens
 
-💵 $62.27 Estimated AI Cost This Week
+💵 $57.51 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 69 AI Prompts
+🧠 14 AI Sessions, 69 AI Prompts
 
-Fable                    1,405 lines         █████████████████████████   100.00 % 
+Fable                    1,173 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.2% of written lines came from AI
-📝 Concise Prompter — average 309 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.13% of changed lines were hand-edited
+🤖 AI-Driven — 99.12% of written lines came from AI
+📝 Concise Prompter — average 320 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,5 +114,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 20:15:32 UTC
+ Last Updated on 05/08/2026 20:15:32 UTC
 <!--END_SECTION:waka-->
