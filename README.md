@@ -56,49 +56,48 @@ Sunday                   787 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 28 mins       ███████████████████░░░░░░   74.86 % 
-Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+TypeScript               3 hrs 5 mins        ████████████████████░░░░░   81.08 % 
+Python                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 55 mins       █████████████████████░░░░   84.80 % 
-Claude Code              42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+VS Code                  3 hrs 34 mins       ███████████████████████░░   93.87 % 
+Claude Code              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 🐱‍💻 Projects: 
-twei-frontend            2 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.81 % 
-qr-share                 52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-alle-tech                38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-twei-backend             26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-decimen-optical-transfer 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+twei-frontend            2 hrs 8 mins        ██████████████░░░░░░░░░░░   56.50 % 
+qr-share                 52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+twei-backend             26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+decimen-optical-transfer 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 
 💻 Operating System: 
-Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 17 mins (92.51%)
+⏱ AI Coding Time: 3 hrs 32 mins (92.94%)
 
-✍️ 841 lines written by AI, 9 lines written by hand (98.94% AI-written)
+✍️ 437 lines written by AI, 7 lines written by hand (98.42% AI-written)
 
-🔤 13,068,318 Input Tokens, 166,959 Output Tokens
+🔤 11,141,560 Input Tokens, 137,816 Output Tokens
 
-💵 $46.79 Estimated AI Cost This Week
+💵 $26.06 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 62 AI Prompts
+🧠 8 AI Sessions, 49 AI Prompts
 
-Fable                    889 lines           █████████████████████████   100.00 % 
+Fable                    472 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.94% of written lines came from AI
-📝 Concise Prompter — average 305 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.58% of changed lines were hand-edited
+🤖 AI-Driven — 98.42% of written lines came from AI
+📝 Concise Prompter — average 329 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 2.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,5 +113,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 19:36:39 UTC
+ Last Updated on 08/08/2026 19:13:39 UTC
 <!--END_SECTION:waka-->
