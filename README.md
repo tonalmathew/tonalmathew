@@ -11,9 +11,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C716%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C718%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -56,48 +56,47 @@ Sunday                   787 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 5 mins        ████████████████████░░░░░   81.08 % 
-Python                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+TypeScript               3 hrs 22 mins       █████████████████░░░░░░░░   68.88 % 
+Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+JavaScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 34 mins       ███████████████████████░░   93.87 % 
-Claude Code              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+VS Code                  3 hrs 53 mins       █████████████████░░░░░░░░   69.35 % 
+Claude Code              1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   30.65 % 
 
 🐱‍💻 Projects: 
-twei-frontend            2 hrs 8 mins        ██████████████░░░░░░░░░░░   56.50 % 
-qr-share                 52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-twei-backend             26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-decimen-optical-transfer 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+twei-frontend            4 hrs 18 mins       ██████████████████████░░░   87.74 % 
+twei-backend             35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+qr-share                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  3 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 32 mins (92.94%)
+⏱ AI Coding Time: 4 hrs 20 mins (88.28%)
 
-✍️ 437 lines written by AI, 7 lines written by hand (98.42% AI-written)
+✍️ 1,425 lines written by AI, 17 lines written by hand (98.82% AI-written)
 
-🔤 11,141,560 Input Tokens, 137,816 Output Tokens
+🔤 34,437,801 Input Tokens, 231,356 Output Tokens
 
-💵 $26.06 Estimated AI Cost This Week
+💵 $62.87 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 49 AI Prompts
+🧠 9 AI Sessions, 63 AI Prompts
 
-Fable                    472 lines           █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   1,085 lines         ███████████████████░░░░░░   74.67 % 
+Fable                    368 lines           ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.42% of written lines came from AI
-📝 Concise Prompter — average 329 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.16% of changed lines were hand-edited
+🤖 AI-Driven — 98.82% of written lines came from AI
+📚 Verbose Prompter — average 4,026 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,5 +112,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 19:13:39 UTC
+ Last Updated on 09/08/2026 19:17:00 UTC
 <!--END_SECTION:waka-->
