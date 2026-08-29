@@ -11,9 +11,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C740%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C740%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -56,46 +56,46 @@ Sunday                   787 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 48 mins       █████████████████████░░░░   85.11 % 
-JavaScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+TypeScript               4 hrs 57 mins       █████████████████████░░░░   82.55 % 
+JavaScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 23 mins       ███████████████░░░░░░░░░░   60.13 % 
-VS Code                  2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.87 % 
+Claude Code              3 hrs 45 mins       ████████████████░░░░░░░░░   62.57 % 
+VS Code                  2 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.43 % 
 
 🐱‍💻 Projects: 
-twei-frontend            5 hrs 33 mins       █████████████████████████   98.43 % 
-twei-backend             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-abc-kenya                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+twei-frontend            5 hrs 33 mins       ███████████████████████░░   92.41 % 
+abc-kenya                23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+twei-backend             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 💻 Operating System: 
-Windows                  5 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 23 mins (77.88%)
+⏱ AI Coding Time: 4 hrs 45 mins (79.23%)
 
-✍️ 1,561 lines written by AI, 24 lines written by hand (98.49% AI-written)
+✍️ 1,574 lines written by AI, 24 lines written by hand (98.5% AI-written)
 
-🔤 893,620 Input Tokens, 217,017 Output Tokens
+🔤 1,449,239 Input Tokens, 227,435 Output Tokens
 
-💵 $16.95 Estimated AI Cost This Week
+💵 $21.24 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 54 AI Prompts
+🧠 13 AI Sessions, 55 AI Prompts
 
-Sonnet                   1,658 lines         █████████████████████████   100.00 % 
+Sonnet                   1,674 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.49% of written lines came from AI
-📝 Concise Prompter — average 428 characters per prompt
+🤖 AI-Driven — 98.5% of written lines came from AI
+📝 Concise Prompter — average 455 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.45% of changed lines were hand-edited
+🚀 High AI Trust — 5.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,5 +111,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 02:22:18 UTC
+ Last Updated on 29/08/2026 01:55:38 UTC
 <!--END_SECTION:waka-->
