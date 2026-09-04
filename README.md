@@ -11,9 +11,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C743%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C743%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -56,45 +56,44 @@ Sunday                   787 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 13 mins       ████████████████████░░░░░   79.49 % 
-Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+TypeScript               4 hrs 2 mins        ████████████████████░░░░░   79.82 % 
+Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 33 mins       █████████████████████░░░░   85.86 % 
-VS Code                  45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Claude Code              3 hrs 51 mins       ███████████████████░░░░░░   76.38 % 
+VS Code                  1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
 
 🐱‍💻 Projects: 
-abc-kenya                3 hrs               ██████████████░░░░░░░░░░░   56.76 % 
-twei-frontend            2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   43.24 % 
+twei-frontend            2 hrs 59 mins       ███████████████░░░░░░░░░░   59.19 % 
+abc-kenya                2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.81 % 
 
 💻 Operating System: 
-Windows                  5 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 55 mins (92.76%)
+⏱ AI Coding Time: 4 hrs 20 mins (85.77%)
 
-✍️ 4,057 lines written by AI, 26 lines written by hand (99.36% AI-written)
+✍️ 909 lines written by AI, 27 lines written by hand (97.12% AI-written)
 
-🔤 5,245,229 Input Tokens, 472,015 Output Tokens
+🔤 4,793,552 Input Tokens, 297,508 Output Tokens
 
-💵 $63.71 Estimated AI Cost This Week
+💵 $48.24 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 42 AI Prompts
+🧠 11 AI Sessions, 45 AI Prompts
 
-Sonnet                   4,117 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   965 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.36% of written lines came from AI
-📄 Detailed Prompter — average 512 characters per prompt
+🤖 AI-Driven — 97.12% of written lines came from AI
+📝 Concise Prompter — average 441 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.75% of changed lines were hand-edited
+🚀 High AI Trust — 3.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,5 +109,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 21:20:08 UTC
+ Last Updated on 04/09/2026 21:02:21 UTC
 <!--END_SECTION:waka-->
