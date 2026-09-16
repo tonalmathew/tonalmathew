@@ -11,9 +11,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C753%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C757%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-121%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -56,46 +56,46 @@ Sunday                   787 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 34 mins       ██████████████████████░░░   89.90 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               5 hrs 11 mins       ██████████████████████░░░   86.70 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 53 mins       ████████████████████░░░░░   78.96 % 
-VS Code                  1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Claude Code              4 hrs 48 mins       ████████████████████░░░░░   80.30 % 
+VS Code                  1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
 
 🐱‍💻 Projects: 
-twei-frontend            6 hrs 5 mins        █████████████████████████   98.38 % 
-twei                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-twei-backend             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+twei-frontend            5 hrs 42 mins       ████████████████████████░   95.47 % 
+twei-backend             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+twei                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 💻 Operating System: 
-Windows                  6 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 54 mins (95.47%)
+⏱ AI Coding Time: 5 hrs 30 mins (92.0%)
 
-✍️ 1,507 lines written by AI, 37 lines written by hand (97.6% AI-written)
+✍️ 2,741 lines written by AI, 36 lines written by hand (98.7% AI-written)
 
-🔤 1,283,756 Input Tokens, 364,287 Output Tokens
+🔤 2,225,170 Input Tokens, 417,560 Output Tokens
 
-💵 $113.08 Estimated AI Cost This Week
+💵 $159.47 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 53 AI Prompts
+🧠 7 AI Sessions, 45 AI Prompts
 
-Opus                     1,093 lines         █████████████████░░░░░░░░   67.43 % 
-Sonnet                   528 lines           ████████░░░░░░░░░░░░░░░░░   32.57 % 
+Opus                     2,784 lines         ████████████████████████░   95.24 % 
+Sonnet                   139 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.6% of written lines came from AI
-📝 Concise Prompter — average 242 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 2.42% of changed lines were hand-edited
+🤖 AI-Driven — 98.7% of written lines came from AI
+📝 Concise Prompter — average 212 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,5 +111,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 21:44:29 UTC
+ Last Updated on 16/09/2026 21:40:16 UTC
 <!--END_SECTION:waka-->
