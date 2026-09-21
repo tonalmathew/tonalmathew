@@ -11,9 +11,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C764%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C768%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-128%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -56,47 +56,47 @@ Sunday                   787 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 45 mins       ████████████████░░░░░░░░░   64.20 % 
-Markdown                 1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Bash                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+TypeScript               10 hrs 45 mins      ██████████████████░░░░░░░   70.00 % 
+Markdown                 1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Bash                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 17 mins       ███████████████████░░░░░░   76.94 % 
-VS Code                  2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+Claude Code              12 hrs 19 mins      ████████████████████░░░░░   80.20 % 
+VS Code                  3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
 
 🐱‍💻 Projects: 
-twei-frontend            10 hrs 7 mins       █████████████████████░░░░   83.85 % 
-abc-kenya                1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-twei-backend             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-twei                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+twei-frontend            8 hrs 42 mins       ██████████████░░░░░░░░░░░   56.71 % 
+abc-kenya                5 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   38.09 % 
+twei-backend             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+twei                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 💻 Operating System: 
-Windows                  12 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 41 mins (88.6%)
+⏱ AI Coding Time: 13 hrs 53 mins (90.37%)
 
-✍️ 4,948 lines written by AI, 121 lines written by hand (97.61% AI-written)
+✍️ 8,141 lines written by AI, 125 lines written by hand (98.49% AI-written)
 
-🔤 3,597,389 Input Tokens, 716,100 Output Tokens
+🔤 7,137,989 Input Tokens, 867,096 Output Tokens
 
-💵 $248.76 Estimated AI Cost This Week
+💵 $396.99 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 86 AI Prompts
+🧠 16 AI Sessions, 105 AI Prompts
 
-Opus                     5,094 lines         ████████████████████████░   97.34 % 
-Sonnet                   139 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Opus                     8,290 lines         █████████████████████████   98.35 % 
+Sonnet                   139 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.61% of written lines came from AI
-📝 Concise Prompter — average 295 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 12.55% of changed lines were hand-edited
+🤖 AI-Driven — 98.49% of written lines came from AI
+📄 Detailed Prompter — average 604 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 8.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,5 +112,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 21:05:45 UTC
+ Last Updated on 21/09/2026 22:13:34 UTC
 <!--END_SECTION:waka-->
