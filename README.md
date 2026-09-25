@@ -11,9 +11,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C772%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C773%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-136%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-137%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -56,46 +56,46 @@ Sunday                   787 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               8 hrs 51 mins       ███████████████░░░░░░░░░░   61.72 % 
-Markdown                 1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Python                   1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Bash                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+TypeScript               7 hrs 40 mins       ███████████████░░░░░░░░░░   61.23 % 
+Python                   2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Bash                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 51 mins      ███████████████████░░░░░░   75.67 % 
-VS Code                  3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Claude Code              9 hrs 24 mins       ███████████████████░░░░░░   74.99 % 
+VS Code                  3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
 
 🐱‍💻 Projects: 
-twei-frontend            6 hrs 25 mins       ███████████░░░░░░░░░░░░░░   44.83 % 
-abc-kenya                5 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   41.08 % 
-twei-backend             1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-twei                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+abc-kenya                5 hrs 53 mins       ████████████░░░░░░░░░░░░░   46.95 % 
+twei-frontend            4 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.79 % 
+twei-backend             2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+twei                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Windows                  14 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 10 mins (91.86%)
+⏱ AI Coding Time: 11 hrs 29 mins (91.55%)
 
-✍️ 6,151 lines written by AI, 91 lines written by hand (98.54% AI-written)
+✍️ 4,687 lines written by AI, 58 lines written by hand (98.78% AI-written)
 
-🔤 5,496,056 Input Tokens, 667,337 Output Tokens
+🔤 4,657,863 Input Tokens, 559,037 Output Tokens
 
-💵 $292.32 Estimated AI Cost This Week
+💵 $248.35 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 107 AI Prompts
+🧠 15 AI Sessions, 94 AI Prompts
 
-Opus                     6,509 lines         █████████████████████████   100.00 % 
+Opus                     4,950 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.54% of written lines came from AI
-📄 Detailed Prompter — average 633 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 9.77% of changed lines were hand-edited
+🤖 AI-Driven — 98.78% of written lines came from AI
+📄 Detailed Prompter — average 687 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 10.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,5 +111,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 21:48:47 UTC
+ Last Updated on 25/09/2026 21:50:53 UTC
 <!--END_SECTION:waka-->
