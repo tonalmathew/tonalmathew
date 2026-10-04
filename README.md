@@ -56,45 +56,45 @@ Sunday                   787 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 28 mins       █████████████████████░░░░   84.39 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+TypeScript               1 hr 59 mins        ███████████████████████░░   91.47 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 56 mins       ██████████████░░░░░░░░░░░   55.59 % 
-VS Code                  2 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.41 % 
+VS Code                  1 hr 8 mins         █████████████░░░░░░░░░░░░   52.35 % 
+Claude Code              1 hr 2 mins         ████████████░░░░░░░░░░░░░   47.65 % 
 
 🐱‍💻 Projects: 
-twei-frontend            4 hrs 51 mins       ███████████████████████░░   91.59 % 
-twei-backend             20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-twei                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+twei-frontend            2 hrs 7 mins        ████████████████████████░   97.73 % 
+twei-backend             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+twei                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Windows                  5 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 5 mins (77.37%)
+⏱ AI Coding Time: 1 hr 25 mins (65.86%)
 
-✍️ 2,920 lines written by AI, 132 lines written by hand (95.67% AI-written)
+✍️ 657 lines written by AI, 6 lines written by hand (99.1% AI-written)
 
-🔤 784,165 Input Tokens, 240,489 Output Tokens
+🔤 330,320 Input Tokens, 77,773 Output Tokens
 
-💵 $20.61 Estimated AI Cost This Week
+💵 $5.63 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 43 AI Prompts
+🧠 6 AI Sessions, 18 AI Prompts
 
-Opus                     3,097 lines         █████████████████████████   100.00 % 
+Opus                     691 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.67% of written lines came from AI
-📝 Concise Prompter — average 180 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 4.94% of changed lines were hand-edited
+🤖 AI-Driven — 99.1% of written lines came from AI
+📝 Concise Prompter — average 173 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,5 +110,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 21:45:25 UTC
+ Last Updated on 04/10/2026 21:53:42 UTC
 <!--END_SECTION:waka-->
