@@ -56,47 +56,45 @@ Sunday                   787 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 43 mins       ███████████████████░░░░░░   75.11 % 
-Bash                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+TypeScript               4 hrs 10 mins       ███████████████████░░░░░░   77.29 % 
+Bash                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 38 mins       ██████████████████░░░░░░░   73.67 % 
-VS Code                  1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Claude Code              4 hrs 7 mins        ███████████████████░░░░░░   76.40 % 
+VS Code                  1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
 
 🐱‍💻 Projects: 
-abc-kenya                3 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.61 % 
-twei-frontend            1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-thiraala                 1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-twei-backend             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-twei                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+abc-kenya                3 hrs 38 mins       █████████████████░░░░░░░░   67.64 % 
+thiraala                 1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+twei-frontend            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 
 💻 Operating System: 
-Windows                  6 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 21 mins (85.07%)
+⏱ AI Coding Time: 4 hrs 35 mins (85.26%)
 
-✍️ 895 lines written by AI, 73 lines written by hand (92.46% AI-written)
+✍️ 819 lines written by AI, 72 lines written by hand (91.92% AI-written)
 
-🔤 2,265,547 Input Tokens, 269,136 Output Tokens
+🔤 2,386,394 Input Tokens, 204,116 Output Tokens
 
-💵 $49.30 Estimated AI Cost This Week
+💵 $46.94 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 64 AI Prompts
+🧠 6 AI Sessions, 50 AI Prompts
 
-Opus                     939 lines           █████████████████████████   100.00 % 
+Opus                     862 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.46% of written lines came from AI
-📝 Concise Prompter — average 152 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 7.85% of changed lines were hand-edited
+🤖 AI-Driven — 91.92% of written lines came from AI
+📝 Concise Prompter — average 176 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 8.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,5 +110,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 00:59:40 UTC
+ Last Updated on 13/10/2026 23:06:52 UTC
 <!--END_SECTION:waka-->
