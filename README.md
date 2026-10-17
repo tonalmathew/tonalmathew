@@ -15,7 +15,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-148%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -63,8 +63,8 @@ Other                    5 mins              ░░░░░░░░░░░�
 Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 51 mins       ███████████████████░░░░░░   75.26 % 
-VS Code                  1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+Claude Code              3 hrs 50 mins       ███████████████████░░░░░░   75.15 % 
+VS Code                  1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
 
 🐱‍💻 Projects: 
 abc-kenya                3 hrs 38 mins       ██████████████████░░░░░░░   71.27 % 
@@ -77,23 +77,23 @@ Windows                  5 hrs 7 mins        ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 19 mins (84.6%)
+⏱ AI Coding Time: 4 hrs 19 mins (84.48%)
 
-✍️ 738 lines written by AI, 72 lines written by hand (91.11% AI-written)
+✍️ 738 lines written by AI, 73 lines written by hand (91.0% AI-written)
 
 🔤 2,361,190 Input Tokens, 192,452 Output Tokens
 
-💵 $45.68 Estimated AI Cost This Week
+💵 $45.40 Estimated AI Cost This Week
 
 🧠 5 AI Sessions, 48 AI Prompts
 
-Opus                     784 lines           █████████████████████████   100.00 % 
+Opus                     781 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.11% of written lines came from AI
+🤖 AI-Driven — 91.0% of written lines came from AI
 📝 Concise Prompter — average 179 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 9.19% of changed lines were hand-edited
+🚀 High AI Trust — 9.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,5 +109,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 21:40:13 UTC
+ Last Updated on 17/10/2026 20:55:59 UTC
 <!--END_SECTION:waka-->
